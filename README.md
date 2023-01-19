@@ -3,7 +3,7 @@
 ## I am an undergraduate student studying Computer Science at Arizona State University
 - 👀 I’m interested in Full Stack Development, Machine Learning, Cloud Computing, and Artifical Intelligence
 - 💞️ I’m looking to get more comfortable using version control and contribute more on Open Source projects
-- 🥅 2022 Goals: Pass this semester
+- 🥅 2023 Goals: Work towards my career and have fun!
 - ⚡ Fun fact: I enjoy working on cars
 
 ### Connect with me:
