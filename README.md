@@ -1,7 +1,7 @@
 ### 👋 Hey there, I’m Sherwin
 
 ## I am an undergraduate student studying Computer Science at Arizona State University
-- 👀 I’m interested in Full Stack Development, Machine Learning, Cloud Computing, and Artifical Intelligence
+- 👀 I’m interested in Full Stack Development, Artificial Intelligence, Cloud Computing, and Machine Learning
 - 💞️ I’m looking to get more comfortable using version control and contribute more on Open Source projects
 - 🥅 2023 Goals: Work towards my career and have fun!
 - ⚡ Fun fact: I enjoy working on cars
